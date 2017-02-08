@@ -2,6 +2,7 @@
 
 > Working with Arrays
 
+[![Build Status](https://travis-ci.org/helio-training/fs-corejs-arrays-simple-types.svg?branch=solutions)](https://travis-ci.org/helio-training/fs-corejs-arrays-simple-types)
 
 ## Introduction
 
